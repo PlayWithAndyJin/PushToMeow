@@ -40,7 +40,7 @@ Push To Meow 是一个基于专为 HarmonyOS 5+ 用户设计的智能推送服�
 
 #### 2. 定时天气推送
 - **昵称**（必填）：输入你在MeoW App中的昵称。
-- **城市**（必填）：支持全国主要城市，填写中文或英文城市名。
+- **城市**（必填）：支持全国大部分城市，填写中文、英文城市名。我在上方也提供了天气API支持查询的城市名称CSV文件，可以查找一下需要预报的城市是否支持，基本上都是支持的。
 - **推送时间**（必填）：每天到点自动推送天气（24小时制）。
 - **链接**（可选）：点击消息后跳转的链接。
 
@@ -63,6 +63,10 @@ Push To Meow 是一个基于专为 HarmonyOS 5+ 用户设计的智能推送服�
 - 确保设备已正确安装 Meow 应用
 - 定时推送功能需要服务持续运行
 - 天气信息基于和风天气 API 提供
+
+### 特别鸣谢
+
+鸣谢<a href="http://www.chuckfang.com/Meow">方程</a>以及Meow的各位开发者们！
 
 ---
 
@@ -101,7 +105,7 @@ The web page is divided into two main sections:
 
 #### 2. Scheduled Weather Push
 - **Nickname** (required): Enter your MeoW nickname.
-- **City** (required): Supports major cities in China, can use Chinese or English city names.
+- **City** (required): Supports major cities in China, can use Chinese or English city names.I also provided CSV files of city names that the weather API supports querying above, which can be used to check if the cities that need to be forecasted are supported. Basically, they are all supported.
 - **Push Time** (required): The time to automatically push weather info every day (24-hour format).
 - **Link** (optional): URL to open when the message is clicked.
 
@@ -124,6 +128,10 @@ The service supports weather information for Chinese cities using the QWeather A
 - Make sure your device has the Meow app installed
 - Scheduled push requires the service to keep running
 - Weather information is provided by QWeather API
+
+### Special Thanks
+
+Thanks<a ref=“ http://www.chuckfang.com/Meow Equation</a>and all the developers of Meow!
 
 ---
 
