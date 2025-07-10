@@ -1,9 +1,9 @@
 # Push To Meow - 向Meow推送自定义消息
 
 [English](#english) | [简体中文](#chinese)
-![Page](page.png)
----
 
+---
+![Page](page.png)
 ## Chinese
 
 ### 项目概述
