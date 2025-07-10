@@ -131,7 +131,7 @@ The service supports weather information for Chinese cities using the QWeather A
 
 ### Special Thanks
 
-Thanks<a ref=“ http://www.chuckfang.com/Meow Equation</a>and all the developers of Meow!
+Thanks<a href="http://www.chuckfang.com/Meow">Chuck Fang</a>and all the developers of Meow!
 
 ---
 
