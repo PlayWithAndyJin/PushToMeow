@@ -3,7 +3,8 @@
 [English](#english) | [简体中文](#chinese)
 
 ---
-<strong>用户可以👉🏻<a href="http://121.29.19.143:5001">戳这里</a>进行体验，这个项目完全免费，承诺不收取任何使用第三方API的费用！</strong>
+<strong>用户可以👉🏻<a href="http://121.29.19.143:5001">戳这里</a>进行使用、体验，这个项目完全免费，承诺不收取任何使用第三方API的费用！<br>同时，也可以在我<a href="http://121.29.19.143">主页</a>发现更多内容。</strong>
+
 
 ![Page](page.png)
 ## Chinese
