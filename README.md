@@ -1,9 +1,9 @@
-# Push To Meow - 向Meow推送自定义消息
+# Push To MeoW - 向MeoW推送自定义消息
 
 [English](#english) | [简体中文](#chinese)
 
 ---
-<strong>用户可以👉🏻<a href="http://121.29.19.143:5001">戳这里</a>进行使用、体验，这个项目完全免费，承诺不收取任何使用第三方API的费用！<br>同时，也可以在我<a href="http://121.29.19.143">主页</a>发现更多内容。</strong>
+<strong>用户可以👉🏻<a href="http://121.29.19.143:5001">戳这里</a>进行使用、体验，这个项目完全免费，承诺不收取任何使用第三方API的费用！<br>如果您对这个小工具感兴趣，还可以体验、使用其他的<a href="http://121.29.19.143/api_toolkit.html">API小工具</a>。<br>同时，也可以在我<a href="http://121.29.19.143">主页</a>发现更多内容。</strong>
 
 
 ![Page](page.png)
@@ -11,7 +11,7 @@
 
 ### 项目概述
 
-Push To Meow 是一个基于专为 HarmonyOS 5+ 用户设计的智能推送服务Meow的DIY工具。用户需要在手机或平板上从 App Gallery 安装 Meow 软件，才能接收推送到自己设备上的消息。因为这个工具是通过Meow的api接口进行推送的。
+Push To MeoW 是一个基于专为 HarmonyOS 5+ 用户设计的智能推送服务MeoW的DIY工具。用户需要在手机或平板上从 App Gallery 安装 MeoW 软件，才能接收推送到自己设备上的消息。因为这个工具是通过MeoW的api接口进行推送的。
 
 ### 主要功能
 
@@ -22,7 +22,7 @@ Push To Meow 是一个基于专为 HarmonyOS 5+ 用户设计的智能推送服�
 ### 使用前提
 
 - HarmonyOS 5.0 或更高版本
-- 从 App Gallery 安装 Meow 应用
+- 从 App Gallery 安装 MeoW 应用
 
 ### 当前支持推送的内容
 1. 每日天气预报
@@ -41,7 +41,7 @@ Push To Meow 是一个基于专为 HarmonyOS 5+ 用户设计的智能推送服�
 
 #### 2. 定时天气推送
 - **昵称**（必填）：输入你在MeoW App中的昵称。
-- **城市**（必填）：支持全国大部分城市，填写中文、英文城市名。我在上方也提供了天气API支持查询的城市名称CSV文件，可以查找一下需要预报的城市是否支持，基本上都是支持的。
+- **城市**（必填）：支持全国大部分市、区，填写中文、英文的市、区名称。若不确定需要的市、区是否支持，可以👉🏻<a href="http://121.29.19.143:5001/show_cityname">戳这里</a>来查询
 - **推送时间**（必填）：每天到点自动推送天气（24小时制）。
 - **链接**（可选）：点击消息后跳转的链接。
 
@@ -61,13 +61,13 @@ Push To Meow 是一个基于专为 HarmonyOS 5+ 用户设计的智能推送服�
 
 ### 注意事项
 
-- 确保设备已正确安装 Meow 应用
+- 确保设备已正确安装 MeoW 应用
 - 定时推送功能需要服务持续运行
 - 天气信息基于和风天气 API 提供
 
 ### 特别鸣谢
 
-鸣谢<a href="http://www.chuckfang.com/Meow">方程</a>以及Meow的各位开发者们！
+鸣谢<a href="http://www.chuckfang.com/Meow">方程</a>以及MeoW的各位开发者们！
 
 ---
 
@@ -75,7 +75,7 @@ Push To Meow 是一个基于专为 HarmonyOS 5+ 用户设计的智能推送服�
 
 ### Overview
 
-Push To Meow is a DIY tool based on the official Meow smart push service for HarmonyOS 5+ users. To receive pushes on your device, you need to install the Meow app from App Gallery on your phone or tablet. This tool sends notifications to your devices via the Meow API interface.
+Push To MeoW is a DIY tool based on the official MeoW smart push service for HarmonyOS 5+ users. To receive pushes on your device, you need to install the MeoW app from App Gallery on your phone or tablet. This tool sends notifications to your devices via the MeoW API interface.
 
 ### Features
 
@@ -86,7 +86,7 @@ Push To Meow is a DIY tool based on the official Meow smart push service for Har
 ### Prerequisites
 
 - HarmonyOS 5.0 or higher
-- Meow app installed from App Gallery
+- MeoW app installed from App Gallery
 
 ### Current Supported Push Content
 1. Daily weather forecast
@@ -106,7 +106,7 @@ The web page is divided into two main sections:
 
 #### 2. Scheduled Weather Push
 - **Nickname** (required): Enter your MeoW nickname.
-- **City** (required): Supports major cities in China, can use Chinese or English city names.I also provided CSV files of city names that the weather API supports querying above, which can be used to check if the cities that need to be forecasted are supported. Basically, they are all supported.
+- **City** (required): Support most cities and districts in China, and fill in the names of cities and districts in Chinese and English. If you are not sure whether the required city or district supports it, You can 👉🏻<a href="http://121.29.19.143:5001/show_cityname">click here</a> to check.
 - **Push Time** (required): The time to automatically push weather info every day (24-hour format).
 - **Link** (optional): URL to open when the message is clicked.
 
@@ -126,13 +126,13 @@ The service supports weather information for Chinese cities using the QWeather A
 
 ### Notes
 
-- Make sure your device has the Meow app installed
+- Make sure your device has the MeoW app installed
 - Scheduled push requires the service to keep running
 - Weather information is provided by QWeather API
 
 ### Special Thanks
 
-Thanks<a href="http://www.chuckfang.com/Meow">Chuck Fang</a>and all the developers of Meow!
+Thanks<a href="http://www.chuckfang.com/Meow">Chuck Fang</a>and all the developers of MeoW!
 
 ---
 
